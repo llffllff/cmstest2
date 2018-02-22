@@ -1,6 +1,7 @@
 ---
-title: "Elephants Hugo Theme"
-date: 2017-12-30T18:30:21-05:00
+title: Elephants sakujo
+date: 2017-12-30T23:30:21.000Z
+description: aa
 draft: false
 ---
 
